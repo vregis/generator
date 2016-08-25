@@ -1,0 +1,24 @@
+.f-right {
+    float:right;
+}
+
+.f-left {
+    float:left;
+}
+.statistic-btn {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.results {
+    padding-top: 30px;
+}
+
+.results img {
+    height: 150px;
+    width: 200px;
+}
+
+.one-result {
+    padding-top:30px;
+}
